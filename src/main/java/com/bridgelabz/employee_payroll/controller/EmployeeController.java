@@ -6,12 +6,12 @@ import com.bridgelabz.employee_payroll.exception.EmployeePayrollException;
 import com.bridgelabz.employee_payroll.model.EmployeeModel;
 import com.bridgelabz.employee_payroll.repository.IrepoEmployee;
 import com.bridgelabz.employee_payroll.service.IEmployeeService;
-import jakarta.validation.Valid;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
 
+import javax.validation.Valid;
 import java.util.*;
 
 //to define class as RestController

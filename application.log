@@ -406,3 +406,21 @@ Caused by: org.hibernate.HibernateException: Unable to determine Dialect without
 2023-01-10 14:36:35 [restartedMain] WARN  o.s.b.a.o.j.JpaBaseConfiguration$JpaWebConfiguration - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
 2023-01-10 14:36:36 [restartedMain] INFO  c.b.e.EmployeePayrollApplication - Started EmployeePayrollApplication in 8.896 seconds (process running for 17.904)
 2023-01-10 14:36:36 [restartedMain] INFO  c.b.e.EmployeePayrollApplication - Application Started....
+2023-01-10 14:41:04 [restartedMain] INFO  c.b.e.EmployeePayrollApplication - Starting EmployeePayrollApplication using Java 19.0.1 with PID 1196 (C:\Users\Amar\Desktop\CFP SpringBoot\IdeaProjects\Employee_Payroll\target\classes started by root in C:\Users\Amar\Desktop\CFP SpringBoot\IdeaProjects\Employee_Payroll)
+2023-01-10 14:41:04 [restartedMain] DEBUG c.b.e.EmployeePayrollApplication - Running with Spring Boot v3.0.1, Spring v6.0.3
+2023-01-10 14:41:04 [restartedMain] INFO  c.b.e.EmployeePayrollApplication - The following 1 profile is active: "dev"
+2023-01-10 14:41:10 [restartedMain] WARN  o.s.b.a.o.j.JpaBaseConfiguration$JpaWebConfiguration - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2023-01-10 14:41:10 [restartedMain] INFO  c.b.e.EmployeePayrollApplication - Started EmployeePayrollApplication in 7.074 seconds (process running for 8.547)
+2023-01-10 14:41:10 [restartedMain] INFO  c.b.e.EmployeePayrollApplication - Application Started....
+2023-01-10 20:19:40 [restartedMain] INFO  c.b.e.EmployeePayrollApplication - Starting EmployeePayrollApplication using Java 19.0.1 with PID 15232 (C:\Users\Amar\Desktop\CFP SpringBoot\IdeaProjects\Employee_Payroll\target\classes started by root in C:\Users\Amar\Desktop\CFP SpringBoot\IdeaProjects\Employee_Payroll)
+2023-01-10 20:19:40 [restartedMain] DEBUG c.b.e.EmployeePayrollApplication - Running with Spring Boot v3.0.1, Spring v6.0.3
+2023-01-10 20:19:40 [restartedMain] INFO  c.b.e.EmployeePayrollApplication - The following 1 profile is active: "dev"
+2023-01-10 20:19:44 [restartedMain] WARN  o.s.b.a.o.j.JpaBaseConfiguration$JpaWebConfiguration - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2023-01-10 20:19:45 [restartedMain] INFO  c.b.e.EmployeePayrollApplication - Started EmployeePayrollApplication in 5.588 seconds (process running for 7.698)
+2023-01-10 20:19:45 [restartedMain] INFO  c.b.e.EmployeePayrollApplication - Application Started....
+2023-01-10 20:20:48 [restartedMain] INFO  c.b.e.EmployeePayrollApplication - Starting EmployeePayrollApplication using Java 19.0.1 with PID 17988 (C:\Users\Amar\Desktop\CFP SpringBoot\IdeaProjects\Employee_Payroll\target\classes started by root in C:\Users\Amar\Desktop\CFP SpringBoot\IdeaProjects\Employee_Payroll)
+2023-01-10 20:20:48 [restartedMain] DEBUG c.b.e.EmployeePayrollApplication - Running with Spring Boot v3.0.1, Spring v6.0.3
+2023-01-10 20:20:48 [restartedMain] INFO  c.b.e.EmployeePayrollApplication - The following 1 profile is active: "dev"
+2023-01-10 20:20:52 [restartedMain] WARN  o.s.b.a.o.j.JpaBaseConfiguration$JpaWebConfiguration - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2023-01-10 20:20:53 [restartedMain] INFO  c.b.e.EmployeePayrollApplication - Started EmployeePayrollApplication in 5.578 seconds (process running for 7.297)
+2023-01-10 20:20:53 [restartedMain] INFO  c.b.e.EmployeePayrollApplication - Application Started....

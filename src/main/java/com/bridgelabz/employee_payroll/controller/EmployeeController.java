@@ -21,7 +21,7 @@ public class EmployeeController {
     //used to add dependency injection by creating objects
 
     //before we were using EmployeeService class object to execute API's and code was not abstract
-    // EmployeeService employeeService;
+
 
     @Autowired //dependency injection
     //Now we are IEmployeeService interface object to execute API's and code is abstract
